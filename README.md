@@ -1,4 +1,4 @@
-공부중
+1강 공부했습니다 . 
 
 ### Reference Documentation
 For further reference, please consider the following sections:
